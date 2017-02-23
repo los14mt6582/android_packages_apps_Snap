@@ -21,13 +21,13 @@
 
 <resources>
     <!-- Video quality setting entry. Videos will be recorded in VGA quality. [CHAR LIMIT=24] -->
-    <string name="pref_video_quality_entry_vga" translatable="false">VGA</string>
+    <!-- <string name="pref_video_quality_entry_vga" translatable="false">VGA</string> -->
     <!-- Video quality setting entry. Videos will be recorded in CIF quality. [CHAR LIMIT=24] -->
-    <string name="pref_video_quality_entry_cif" translatable="false">CIF</string>
+    <!-- <string name="pref_video_quality_entry_cif" translatable="false">CIF</string> -->
     <!-- Video quality setting entry. Videos will be recorded in QVGA quality. [CHAR LIMIT=24] -->
-    <string name="pref_video_quality_entry_qvga" translatable="false">QVGA</string>
+    <!-- <string name="pref_video_quality_entry_qvga" translatable="false">QVGA</string> -->
     <!-- Video quality setting entry. Videos will be recorded in QCIF quality. [CHAR LIMIT=24] -->
-    <string name="pref_video_quality_entry_qcif" translatable="false">QCIF</string>
+    <!-- <string name="pref_video_quality_entry_qcif" translatable="false">QCIF</string> -->
 
     <!-- Settings screen, Power Mode title -->
     <string name="pref_camera_powermode_title">Power mode</string>

@@ -317,7 +317,8 @@ public class CameraSettings {
         VIDEO_QUALITY_TABLE.put("1920x1080", CamcorderProfile.QUALITY_1080P);
         VIDEO_QUALITY_TABLE.put("1280x720",  CamcorderProfile.QUALITY_720P);
         VIDEO_QUALITY_TABLE.put("720x480",   CamcorderProfile.QUALITY_480P);
-        VIDEO_QUALITY_TABLE.put("640x480",   CamcorderProfile.QUALITY_VGA);
+        //VIDEO_QUALITY_TABLE.put("640x480",   CamcorderProfile.QUALITY_VGA);
+        VIDEO_QUALITY_TABLE.put("640x480",   CamcorderProfile.QUALITY_480P);
         VIDEO_QUALITY_TABLE.put("352x288",   CamcorderProfile.QUALITY_CIF);
         VIDEO_QUALITY_TABLE.put("320x240",   CamcorderProfile.QUALITY_QVGA);
         VIDEO_QUALITY_TABLE.put("176x144",   CamcorderProfile.QUALITY_QCIF);

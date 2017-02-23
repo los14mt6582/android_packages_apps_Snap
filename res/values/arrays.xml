@@ -28,6 +28,8 @@
         <item>@string/pref_video_quality_entry_vga</item>
         <item>@string/pref_video_quality_entry_cif</item>
         <item>@string/pref_video_quality_entry_qvga</item>
+        <item>@string/pref_video_quality_entry_qcif</item>
+
    </string-array>
     <string-array name="pref_video_quality_entryvalues" translatable="false">
         <item>4096x2160</item>
@@ -40,6 +42,7 @@
         <item>640x480</item>
         <item>352x288</item>
         <item>320x240</item>
+        <item>176x144</item>
     </string-array>
 
     <!-- Camera Preference save path entries -->
